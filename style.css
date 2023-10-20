@@ -38,11 +38,11 @@
         margin-top:50px ;
     }
     p{
-        font-size: 30px;
+        font-size: 25px;
         width: 900px;
     }
     li{
-        font-size: 30px;
+        font-size: 25px;
         width: 1000px;
     }
     h3{
@@ -50,5 +50,20 @@
     }
     h1{
         font-size: 50px;
+    }
+    footer {
+        background-color: rgb(226, 223, 223);
+        /* opacity: 0.05; */
+        width: 1100px;
+        margin-left: 90px;
+    }
+    .mail{
+        width: 35px;
+    }
+    .phone{
+        width: 35px;
+    }
+    .location{
+        width: 35px;
     }
 }
