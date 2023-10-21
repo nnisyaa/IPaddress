@@ -53,7 +53,6 @@
     }
     footer {
         background-color: rgb(226, 223, 223);
-        /* opacity: 0.05; */
         width: 1100px;
         margin-left: 90px;
     }
@@ -66,4 +65,17 @@
     .location{
         width: 35px;
     }
+    .socialmedia{
+        margin-left: 20px;
+    }
+    .footp , .mail , .phone , .location {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .footp{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    
 }
+
