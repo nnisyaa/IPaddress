@@ -51,31 +51,6 @@
     h1{
         font-size: 50px;
     }
-    footer {
-        background-color: rgb(226, 223, 223);
-        width: 1100px;
-        margin-left: 90px;
-    }
-    .mail{
-        width: 35px;
-    }
-    .phone{
-        width: 35px;
-    }
-    .location{
-        width: 35px;
-    }
-    .socialmedia{
-        margin-left: 20px;
-    }
-    .footp , .mail , .phone , .location {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    .footp{
-        margin-left: 40px;
-        margin-top: 30px;
-    }
     .lists{
         list-style: none;
         display : flex;
@@ -85,5 +60,15 @@
         text-decoration:none;
         color: black;
     }
+    .form-group {
+       padding-right:px ;
+    }
+    .text-center {
+        padding-right: 1000px;
+    }
+    .col-lg-6 {
+        margin-right: 10000px;
+    }
+   
 }
 
