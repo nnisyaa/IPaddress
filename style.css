@@ -22,9 +22,9 @@
         margin-bottom: 30px;
         font-size: 30px;
     }
-    button:hover{
+    /* button:hover{
         background-color: rgb(224, 221, 221);
-    }
+    } */
     .class{
         width: 1176px;
         height: 500px;
@@ -56,9 +56,12 @@
         display : flex;
         margin-left: 40px;
     }
-    a{
+    .autorization{
         text-decoration:none;
         color: black;
+        display : flex;
+        margin-right: 40px;
+        font-size: 25px;
     }
     .form-group {
        padding-right:px ;
@@ -69,6 +72,7 @@
     .col-lg-6 {
         margin-right: 10000px;
     }
+
    
 }
 
